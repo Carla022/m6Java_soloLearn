@@ -34,5 +34,5 @@ An oraNge suitcase and a straw hat. You, a recent graduate from a quaint little 
 
 **Backend - API**
 
-2. Once the repository has been cloned, open the *'soloLearn'*, *'java*, *'module_06', *'HashMap'* folder in IntelliJ + run it.
+2. Once the repository has been cloned, open the **'soloLearn'*, *'java*, *'module_06'*, *'HashMap'** folder in IntelliJ + run it.
 
