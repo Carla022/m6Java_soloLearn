@@ -1,6 +1,6 @@
 # README - Backend Project
 
-##  The Crystal Palace 
+##  The Crystal Palace Game
 
 <p align="center">
 <img src="https://sitnshow.com/wp-content/uploads/2018/03/red-velvet-rope.jpg" align="center" width="800" height="400"/>
