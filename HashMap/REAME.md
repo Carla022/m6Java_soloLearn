@@ -24,7 +24,15 @@ A solo project to help consolidate my knowledge and demonstrate the ability to u
 
 **Summer:**
   
-An orage suitcase and a straw hat. You, a recent graduate from a quaint little town called Summersville are moving out and ready to unpack in the City of your dreams, New Maneas City. </p>
+An oraNge suitcase and a straw hat. You, a recent graduate from a quaint little town called Summersville are moving out and ready to unpack in the City of your dreams, New Maneas City. </p>
 
 *Will you be the small fish in a big pond?...* 
+
+## Setup & Instructions
+  
+1. Clone repo
+
+**Backend - API**
+
+2. Once the repository has been cloned, open the *'soloLearn'*, *'java*, *'module_06', *'HashMap'* folder in IntelliJ + run it.
 
