@@ -6,8 +6,6 @@
 <img src="https://t4.ftcdn.net/jpg/04/69/06/81/360_F_469068148_j2JjB9dHF4UzivT4nvYufPpejOgUK8lf.jpg" align="center" width="800" height="400"/>
 </p>
 
-
-
 <br>
 
 ## Table of Contents
@@ -20,7 +18,7 @@
 A solo project to help consolidate my knowledge and demonstrate the ability to use Hashmap in Java.
 
 ## About The Project:
-#### An endless text-based adventure where you follow a real life journey into the big city:
+#### An endless text-based adventure following a real life journey into the big city:
 
 <p>
 
