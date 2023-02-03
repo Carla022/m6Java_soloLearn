@@ -1,6 +1,6 @@
 # README - Backend Project
 
-##  The Crystal Palace Game
+##  The Summer Game : New Maneas City
 
 <p align="center">
 <img src="https://t4.ftcdn.net/jpg/04/69/06/81/360_F_469068148_j2JjB9dHF4UzivT4nvYufPpejOgUK8lf.jpg" align="center" width="800" height="400"/>
@@ -26,7 +26,7 @@ A solo project to help consolidate my knowledge and demonstrate the ability to u
 
 **Summer:**
   
-An oraNge suitcase and a straw hat. You, a recent graduate from a quaint little town called Summersville are moving out and ready to unpack in the City of your dreams, New Maneas City. </p>
+An orange suitcase and a straw hat. You, a recent graduate from a quaint little town called Summersville are moving out and ready to unpack in the City of your dreams, New Maneas City. </p>
 
 *Will you be the small fish in a big pond?...* 
 
