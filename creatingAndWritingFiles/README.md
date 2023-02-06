@@ -10,7 +10,7 @@ Earlier today your boss approached you about some business client reports they n
 The same week you are to organise and lead the event at a local school and are beginning to feel the pressure. 
 You want to create a 'To Do' list to plan your days ahead.
 
-## Problem
+## Challenge
 
 <p>
 Create a program to take the names of 3 tasks as input and write them down in the file "tasks.txt", each on a new line.
